@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luis Gonzales
-- 👀 I’m interested in learning 
+- 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning Java Web development
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me is sending a email: luisgonzacc@gmail.com
