@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently a Java Web developer
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me is sending a email: luisgonzacc@gmail.com
+- 📫 How to reach me is sending a email: luisgonzacc@yahoo.com
 
 <!---
 lgonzalescc/lgonzalescc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
