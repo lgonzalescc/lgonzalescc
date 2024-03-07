@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luis Gonzales
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently a Java Web developer
+- 🌱 I’m currently a Java Backend developer
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me is sending a email: luisgonzacc@yahoo.com
 
